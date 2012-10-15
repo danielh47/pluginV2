@@ -1,0 +1,16 @@
+/* 
+    Document   : loginPanel
+    Created on : 2012-10-15, 20:32:28
+    Author     : daniel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.login
+{
+    background-color: grey !important;
+}
